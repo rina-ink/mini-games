@@ -1,2 +1,2 @@
 ![project_img](images/pig-latin-translation-flow.png)
-***Figure 1. Pig Latin Translation Flow***
+***Figure 2. Pig Latin Translation Flow***
