@@ -13,7 +13,8 @@ console.log(`Computer chose: ${computerChoice}`);
 
 // validation
 if (!choices.includes(playerChoice)) {
-    console.log('Invalid choice! Use rock, paper, or scissors.');
+    //console.log('Invalid choice! Use rock, paper, or scissors.');
+    console.error('Invalid choice! Use rock, paper, scissors.');
 } else if (playerChoice === computerChoice) {
     console.log("It's a tie!");
 } else if (
